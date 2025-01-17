@@ -1,11 +1,11 @@
 .card {
     margin: 10% 600px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: beige;
+    background-color: whitesmoke;
 }
 
 .card-1 {
-    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 9px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
     margin: auto;
     text-align: center;
